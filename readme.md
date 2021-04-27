@@ -8,13 +8,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanekiskita&layout=compact&theme=onedark&card_width=445)](https://github.com/sanekiskita/github-readme-stats)
 
 
-
-
 ## Techologies:
-![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=flat)
+
+
+![](https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat)
 
 ## Codewars:
 <a href="https://www.codewars.com/users/sanekiskita" ><img src="https://www.codewars.com/users/sanekiskita/badges/large"></img></a>
