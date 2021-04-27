@@ -3,8 +3,12 @@
 ## Some of my Github Stats:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=sanekiskita alt=sanekiskita /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sanekiskita&show_icons=true&include_all_commits=true)](https://github.com/sanekiskita/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanekiskita&layout=compact)](https://github.com/sanekiskita/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sanekiskita&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/sanekiskita/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanekiskita&layout=compact&theme=onedark&card_width=445)](https://github.com/sanekiskita/github-readme-stats)
+
+
+
 
 ## Techologies:
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
